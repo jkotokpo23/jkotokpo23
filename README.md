@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josue</h1>
+<h1 align="center">Hi 👋, I'm Jojo</h1>
 <h3 align="center">A guy who is trying to live to the fullest</h3>
 
 <h3 align="left">Connect with me:</h3>
